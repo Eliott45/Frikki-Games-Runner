@@ -64,3 +64,6 @@ crashlytics-build.properties
 New Unity Project/Temp
 New Unity Project/Library
 New Unity Project/Logs
+Runner/Library
+Runner/Logs
+Runner/UserSettings/EditorUserSettings.asset
