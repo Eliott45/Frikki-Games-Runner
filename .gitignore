@@ -67,3 +67,6 @@ New Unity Project/Logs
 Runner/Library
 Runner/Logs
 Runner/UserSettings/EditorUserSettings.asset
+Runner/Temp
+Runner/.idea
+Runner/obj
